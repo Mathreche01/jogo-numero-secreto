@@ -53,3 +53,7 @@ h3{
     margin-top: 20px;
     font-family: var(--font-family);
 }
+
+.game-over{
+    --bg-color: #146C94;
+}
